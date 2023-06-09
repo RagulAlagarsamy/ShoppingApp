@@ -1,0 +1,14 @@
+.banner {
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, black, #f07c73);
+    color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-family: "Century Gothic";
+}
+
+.banner p {
+    margin-bottom: 0px;
+}

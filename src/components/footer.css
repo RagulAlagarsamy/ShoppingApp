@@ -1,0 +1,12 @@
+.footer {
+    height: 450px;
+    margin-top: 20px;
+    background-color: rgb(244, 244, 244);
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.sublinks {
+    margin-top: 10px;
+    color: "grey"
+}

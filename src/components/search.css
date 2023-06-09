@@ -1,0 +1,35 @@
+.btn-check:focus+.btn,
+.btn:focus {
+  outline: none !important;
+  box-shadow: none;
+}
+
+Link:focus {
+  outline: none;
+}
+
+a:focus {
+  outline: none;
+}
+
+.lists:hover {
+  background-color: rgb(248, 244, 244);
+  color: white;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: transparent;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(237, 234, 234);
+  border-radius: 10px;
+}
